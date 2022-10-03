@@ -22,6 +22,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=official-mywebprojects&theme=dark)](https://git.io/streak-stats)
 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
+https://github-profile-trophy.vercel.app/?username=official-mywebprojects&theme=flat
 
 [![MyWeb Projects' github activity graph](https://activity-graph.herokuapp.com/graph?username=official-mywebprojects&theme=xcode)](https://github.com/official-mywebprojects/github-readme-activity-graph)
