@@ -18,9 +18,11 @@
 
 <h5>- 😄 Pronouns: (she, her)</h5>
 
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=official-mywebprojects&theme=dark)](https://git.io/streak-stats)
+![MyWeb Projects GitHub stats](https://github-readme-stats.vercel.app/api?username=official-mywebprojects&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=official-mywebprojects&theme=onedark)](https://github.com/official-mywebprojects/github-profile-trophy)
+
+
 
 [![MyWeb Projects' github activity graph](https://activity-graph.herokuapp.com/graph?username=official-mywebprojects&theme=xcode)](https://github.com/official-mywebprojects/github-readme-activity-graph)
